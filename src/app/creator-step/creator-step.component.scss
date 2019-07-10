@@ -1,0 +1,24 @@
+:host {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    max-width: 500px;
+    width: 100%;
+}
+
+.title {
+    text-align: left;
+    width: 100%;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 10px;
+    color: #b3b3b3;
+}

@@ -1,0 +1,34 @@
+:host {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.header-wrapper {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    width: 100%;
+    max-width: 500px;
+    padding:10px;
+    padding-bottom: 20px;
+}
+
+img {
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+
+.header-text-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-title {
+    color:#af2676;
+}
+.header-subtitle {
+    color: white;
+    font-size:12px;
+}
